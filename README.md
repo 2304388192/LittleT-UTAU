@@ -1,2 +1,15 @@
 # LittleT-UTAU
 UTAU音源资源库
+
+如果您使用UTAU或OPENUTAU请下载UTA目录下的音源
+如果您是用的是V4或V6请下载V4orV6目录下的音源
+
+安装方法
+如果您使用的是UTAU
+请将下载好的zip格式文件解压至voice文件夹
+如果您使用的是OPENUTAU
+请将下载好的zip格式文件解压至Singer文件夹
+如果您是用的是V4或V6
+解压文件后双击exe文件安装
+
+感谢您的下载
